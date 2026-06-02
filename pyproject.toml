@@ -1,0 +1,5 @@
+[project]
+name = "PySide QtQuick Project"
+
+[tool.pyside6-project]
+files = ["GuitarTuner/Main.qml", "GuitarTuner/qmldir", "Microphone.py", "Worker.py", "main.py"]
